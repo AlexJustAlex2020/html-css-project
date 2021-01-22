@@ -1,0 +1,10 @@
+@media screen and (min-width: 480px) {
+  video {
+    background-color: lightgreen;
+  }
+}
+
+.flexbox {
+  display: flex;
+  flex: 1 2 30px;
+}
